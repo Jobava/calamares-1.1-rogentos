@@ -1285,7 +1285,7 @@ msgstr "Creează"
 
 #: FileSystemSupportDialogWidgetBase#4
 msgid "Grow"
-msgstr "Crește"
+msgstr "Mărește"
 
 #: FileSystemSupportDialogWidgetBase#5
 msgid "Shrink"

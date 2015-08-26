@@ -1467,7 +1467,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
     <message>
         <location line="75" filename="../src/modules/partition/partitionmanager/src/gui/filesystemsupportdialogwidgetbase.ui"/>
         <source>Grow</source>
-        <translation>Crește</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <location line="80" filename="../src/modules/partition/partitionmanager/src/gui/filesystemsupportdialogwidgetbase.ui"/>
