@@ -2010,11 +2010,11 @@ msgstr "C&rează etichetă"
 
 #: ReleaseDialog#20
 msgid "S&kip translations below completion:"
-msgstr "Să&ri peste traducerile neterminate:"
+msgstr "Sa&ri peste traducerile neterminate:"
 
 #: ReleaseDialog#21
 msgid " %"
-msgstr "%"
+msgstr " %"
 
 #: ReleaseDialog#22
 msgid "Create Tar&ball"

@@ -2323,7 +2323,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
     <message>
         <location line="271" filename="../src/modules/partition/partitionmanager/scripts/release/releasedialog.ui"/>
         <source>S&amp;kip translations below completion:</source>
-        <translation>Să&amp;ri peste traducerile neterminate:</translation>
+        <translation>Sa&amp;ri peste traducerile neterminate:</translation>
     </message>
     <message>
         <location line="306" filename="../src/modules/partition/partitionmanager/scripts/release/releasedialog.ui"/>
