@@ -2973,7 +2973,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
     <message>
         <location line="72" filename="../src/modules/welcome/WelcomePage.cpp"/>
         <source>&lt;h1>%1&lt;/h1>&lt;br/>&lt;strong>%2&lt;br/>for %3&lt;/strong>&lt;br/>&lt;br/>Copyright 2014-2015 Teo Mrnjavac &amp;lt;teo@kde.org&amp;gt;&lt;br/>Thanks to: Anke Boersma, Aurélien Gâteau, Kevin Kofler, Philip Müller, Pier Luigi Fiorini and Rohan Garg.&lt;br/>&lt;br/>&lt;a href="http://calamares.io/">Calamares&lt;/a> development is sponsored by &lt;br/>&lt;a href="http://www.blue-systems.com/">Blue Systems&lt;/a> - Liberating Software.</source>
-        <translation>&lt;h1>%1&lt;/h1>&lt;br/>&lt;strong>%2&lt;br/>for %3&lt;/strong>&lt;br/>&lt;br/>Copyright 2014-2015 Teo Mrnjavac &amp;lt;teo@kde.org&amp;gt;&lt;br/>Mulțumiri: Anke Boersma, Aurélien Gâteau, Kevin Kofler, Philip Müller, Pier Luigi Fiorini and Rohan Garg.&lt;br/>&lt;br/>Dezvoltarea &lt;a href="http://calamares.io/">Calamares&lt;/a> este suportată de &lt;br/>&lt;a href="http://www.blue-systems.com/">Blue Systems&lt;/a> - Noi eliberăm software-ul.</translation>
+        <translation>&lt;h1>%1&lt;/h1>&lt;br/>&lt;strong>%2&lt;br/>for %3&lt;/strong>&lt;br/>&lt;br/>Copyright 2014-2015 Teo Mrnjavac &amp;lt;teo@kde.org&amp;gt;&lt;br/>Mulțumiri: Anke Boersma, Aurélien Gâteau, Kevin Kofler, Philip Müller, Pier Luigi Fiorini și Rohan Garg.&lt;br/>&lt;br/>Dezvoltarea &lt;a href="http://calamares.io/">Calamares&lt;/a> este suportată de &lt;br/>&lt;a href="http://www.blue-systems.com/">Blue Systems&lt;/a> - Noi eliberăm software-ul.</translation>
     </message>
     <message>
         <location line="193" filename="../src/modules/welcome/WelcomePage.cpp"/>
