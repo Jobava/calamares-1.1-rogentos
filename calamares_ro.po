@@ -2505,7 +2505,7 @@ msgstr ""
 
 #: UsersPage#6
 msgid "Your passwords do not match!"
-msgstr "Parolele nu se portivesc!"
+msgstr "Parolele nu se potrivesc!"
 
 #: UsersViewStep#1
 msgid "Users"

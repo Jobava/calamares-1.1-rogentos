@@ -2917,7 +2917,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
         <location line="360" filename="../src/modules/users/UsersPage.cpp"/>
         <location line="393" filename="../src/modules/users/UsersPage.cpp"/>
         <source>Your passwords do not match!</source>
-        <translation>Parolele nu se portivesc!</translation>
+        <translation>Parolele nu se potrivesc!</translation>
     </message>
 </context>
 <context>
