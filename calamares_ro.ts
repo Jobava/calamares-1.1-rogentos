@@ -966,7 +966,7 @@ Instalatorul va ieși, iar toate modificările vor fi pierdute.</translation>
     <message>
         <location line="48" filename="../src/modules/partition/jobs/CreatePartitionJob.cpp"/>
         <source>Create new %2MB partition on %4 (%3) with file system %1.</source>
-        <translation>Creează o nouă partiție de %2MB pe %2 (%3) cu sistemul de operare %1.</translation>
+        <translation>Creează o nouă partiție de %2MB pe %4 (%3) cu sistemul de operare %1.</translation>
     </message>
     <message>
         <location line="59" filename="../src/modules/partition/jobs/CreatePartitionJob.cpp"/>

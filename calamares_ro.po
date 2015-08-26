@@ -877,7 +877,7 @@ msgstr "GPT"
 
 #: CreatePartitionJob#1
 msgid "Create new %2MB partition on %4 (%3) with file system %1."
-msgstr "Creează o nouă partiție de %2MB pe %2 (%3) cu sistemul de operare %1."
+msgstr "Creează o nouă partiție de %2MB pe %4 (%3) cu sistemul de operare %1."
 
 #: CreatePartitionJob#2
 msgid ""
