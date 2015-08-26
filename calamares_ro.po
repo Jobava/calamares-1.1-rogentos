@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-26 23:07+0300\n"
+"POT-Creation-Date: 2015-08-26 23:04+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,17 +24,21 @@ msgid ""
 "With this operation, the partition <strong>%1</strong> which contains %4 "
 "will be shrunk to %2MB and a new %3MB partition will be created for %5."
 msgstr ""
+"Cu această operație, partiția <strong>%1</strong>, cu mărimea de %4, va fi "
+"redusă la %2MB și se va crea o nouă partiție de %3MB pentru %5."
 
 #: AlongsidePage#4
 msgid ""
 "An EFI system partition cannot be found anywhere on this system. Please go "
 "back and use manual partitioning to set up %1."
 msgstr ""
+"O partiție de sistem EFI nu se găsește nicăieri pe acest sistem. Vă rugăm să "
+"reveniți și să utilizați partiționarea manuală pentru a seta %1."
 
 #: AlongsidePage#5
 msgctxt "AlongsidePage#5"
 msgid "The EFI system partition at %1 will be used for starting %2."
-msgstr ""
+msgstr "Partiția de sistem EFI de pe %1 va fi folosită pentru a începe %2."
 
 #: AlongsidePage#6
 msgctxt "AlongsidePage#6"
@@ -51,7 +55,7 @@ msgstr "Deschide în browser extern"
 
 #: ApplyProgressDialogWidgetBase#1
 msgid "Operations and Jobs"
-msgstr "Operații și sarcini"
+msgstr "Operațiuni și sarcini"
 
 #: ApplyProgressDialogWidgetBase#2
 msgid "Time Elapsed"
@@ -63,11 +67,11 @@ msgstr "Timp total: 00:00:00"
 
 #: ApplyProgressDialogWidgetBase#4
 msgid "Operation: %p%"
-msgstr "Operație: %p%"
+msgstr "Operațiune: %p%"
 
 #: ApplyProgressDialogWidgetBase#5
 msgid "Status"
-msgstr "Statut"
+msgstr "Stare"
 
 #: ApplyProgressDialogWidgetBase#6
 msgid "Total: %p%"
@@ -218,33 +222,28 @@ msgstr "Partiție de sistem"
 
 #: BootLoaderModel#4
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: Calamares::DebugWindow#1
 msgctxt "Calamares::DebugWindow#1"
-"Calamares::DebugWindow#1"
-"Calamares::DebugWindow#1"
-"Calamares::DebugWindow#1"
-"Calamares::DebugWindow#1"
-"Calamares::DebugWindow#1"
 msgid "Form"
-msgstr ""
+msgstr "Formular"
 
 #: Calamares::DebugWindow#2
 msgid "GlobalStorage"
-msgstr ""
+msgstr "Stocare globală"
 
 #: Calamares::DebugWindow#3
 msgid "JobQueue"
-msgstr ""
+msgstr "Coadă de sarcini"
 
 #: Calamares::DebugWindow#4
 msgid "Modules"
-msgstr ""
+msgstr "Module"
 
 #: Calamares::DebugWindow#5
 msgid "Debug information"
-msgstr ""
+msgstr "Informație pentru depanare"
 
 #: Calamares::InstallationViewStep#1
 msgctxt "Calamares::InstallationViewStep#1"
@@ -257,15 +256,15 @@ msgstr "Terminat"
 
 #: Calamares::ProcessJob#1
 msgid "Run command %1 %2"
-msgstr ""
+msgstr "Rulează comanda %1 %2"
 
 #: Calamares::ProcessJob#2
 msgid "Running command %1 %2"
-msgstr ""
+msgstr "Se rulează comanda %1 %2"
 
 #: Calamares::ProcessJob#3
 msgid "External command crashed"
-msgstr "Comandă externă căzută"
+msgstr "Comandă externă a avut o pană"
 
 #: Calamares::ProcessJob#4
 msgid ""
@@ -273,7 +272,7 @@ msgid ""
 "Output:\n"
 "%2"
 msgstr ""
-"Comanda %1 căzută.\n"
+"Comanda %1 în pană.\n"
 "Rezultat:\n"
 "%2"
 
@@ -323,7 +322,7 @@ msgstr ""
 
 #: Calamares::PythonJob#1
 msgid "Running %1 operation."
-msgstr ""
+msgstr "Se rulează operațiunea %1."
 
 #: Calamares::PythonJob#2
 msgid "Bad working directory path"
@@ -339,7 +338,7 @@ msgstr "Fișierul script principal este prost"
 
 #: Calamares::PythonJob#5
 msgid "Main script file %1 for python job %2 is not readable."
-msgstr "Fișierul script peincipal %1 pentru sarcina Python %2 nu este citibil."
+msgstr "Fișierul script principal %1 pentru sarcina Python %2 nu este citibil."
 
 #: Calamares::PythonJob#6
 msgid "Boost.Python error in job \"%1\"."
@@ -371,21 +370,24 @@ msgstr ""
 
 #: Calamares::ViewManager#6
 msgid "Continue with setup?"
-msgstr ""
+msgstr "Continuați configurarea?"
 
 #: Calamares::ViewManager#7
 msgid ""
 "The %1 installer is about to make changes to your disk in order to install %"
 "2.<br/><strong>You will not be able to undo these changes.</strong>"
 msgstr ""
+"Programul de instalare %1 este pregătit să facă schimbări pe discul "
+"dumneavoastră pentru a instala %2.<br/><strong>Nu veți putea anula aceste "
+"schimbări.</strong>"
 
 #: Calamares::ViewManager#8
 msgid "&Install now"
-msgstr ""
+msgstr "&Instalează acum"
 
 #: Calamares::ViewManager#9
 msgid "Go &back"
-msgstr ""
+msgstr "Î&napoi"
 
 #: Calamares::ViewManager#10
 msgid "&Quit"
@@ -422,7 +424,7 @@ msgstr "Instalator %1"
 
 #: CalamaresWindow#2
 msgid "Show debug information"
-msgstr ""
+msgstr "Arată informația de depanare"
 
 #: CheckFileSystemJob#1
 msgid "Checking file system on partition %1."
@@ -437,6 +439,8 @@ msgid ""
 "This computer does not satisfy the minimum requirements for installing %"
 "1.<br/>Installation cannot continue. <a href=\"#details\">Details...</a>"
 msgstr ""
+"Acest calculator nu satisface cerințele minimale pentru instalarea %"
+"1.<br/>Instalarea nu poate continua. <a href=\"#details\">Detalii...</a>"
 
 #: CheckerWidget#2
 msgid ""
@@ -444,26 +448,31 @@ msgid ""
 "installing %1.<br/>Installation can continue, but some features might be "
 "disabled."
 msgstr ""
+"Acest calculator nu satisface unele din cerințele recomandate pentru "
+"instalarea %1.<br/>Instalarea poate continua, dar unele funcții ar putea fi "
+"dezactivate."
 
 #: CheckerWidget#3
 msgid ""
 "This program will ask you some questions and set up %2 on your computer."
 msgstr ""
+"Acest program vă va pune mai multe întrebări și va seta %2 pe calculatorul "
+"dumneavoastră."
 
 #: CheckerWidget#4
 msgid "For best results, please ensure that this computer:"
-msgstr ""
+msgstr "Pentru rezultate optime, asigurați-vă că acest calculator:"
 
 #: CheckerWidget#5
 msgid "System requirements"
-msgstr ""
+msgstr "Cerințe de sistem"
 
 #: ChoicePage#1
 msgid ""
 "This computer currently does not seem to have an operating system on it. "
 "What would you like to do?"
 msgstr ""
-"Acest calculator nu pare să aibe un sistem de operare instalat. Ce doriți să "
+"Acest calculator nu pare să aibă un sistem de operare instalat. Ce doriți să "
 "faceți?"
 
 #: ChoicePage#2
@@ -476,12 +485,17 @@ msgid ""
 "</font>This will delete all of your programs, documents, photos, music, and "
 "any other files."
 msgstr ""
+"<strong>Șterge discul și instalează %1</strong><br/><font "
+"color=\"red\">Atenție: </font>Aceasta va șterge toate programele, documentele, "
+"fotografiile, muzica și orice alt fișier."
 
 #: ChoicePage#4
 msgid ""
 "<strong>Erase disk and install %1</strong><br/>You will be offered a choice "
 "of which disk to erase."
 msgstr ""
+"<strong>Șterge discul și instalează %1</strong><br/>Veți avea de ales cu "
+"privire la ce disc să ștergeți."
 
 #: ChoicePage#5
 msgid ""
@@ -489,6 +503,9 @@ msgid ""
 "1 volume to make room for %2. You can choose which operating system you want "
 "each time the computer starts up."
 msgstr ""
+"<strong>Instalează %2 laolaltă cu %1</strong><br/>Programul de instalare va "
+"reduce volumul %1 pentru a face loc pentru %2. Puteți alege tipul de sistem "
+"de operare dorit de fiecare dată când pornește calculatorul."
 
 #: ChoicePage#6
 msgid ""
@@ -496,12 +513,17 @@ msgid ""
 "color=\"red\">Warning: </font>This will erase the whole disk and delete all of "
 "your %1 programs, documents, photos, music, and any other files."
 msgstr ""
+"<strong>Șterge discul întreg cu %1 și instalează %2</strong><br/><font "
+"color=\"red\">Atenție: </font>Aceasta va șterge întreg discul și va șterge "
+"toate programele, documentele, fotografiile și orice alt fișier din %1."
 
 #: ChoicePage#7
 msgid ""
 "<strong>Replace a partition with %1</strong><br/>You will be offered a "
 "choice of which partition to erase."
 msgstr ""
+"<strong>Înlocuiește o partiție cu %1</strong><br/>Veți putea alege ce "
+"partiție să ștergeți."
 
 #: ChoicePage#8
 msgid ""
@@ -517,6 +539,10 @@ msgid ""
 "installer will shrink an existing volume to make room for %2. You can choose "
 "which operating system you want each time the computer starts up."
 msgstr ""
+"<strong>Instalați %1 laolaltă cu sistemul de operare "
+"actual</strong><br/>Programul de instalare va micșora un volum existant "
+"pentru a face loc pentru %2. Puteți alege ce sistem de operare doriți de "
+"fiecare dată când pornește calculatorul."
 
 #: ChoicePage#10
 msgid ""
@@ -532,40 +558,46 @@ msgid ""
 "installer will shrink an existing volume to make room for %2. You can "
 "choose which operating system you want each time the computer starts up."
 msgstr ""
+"<strong>Instalați %1 laolaltă cu sistemele de operare "
+"actuale</strong><br/>Instalatorul va micșora un volum existent pentru a face "
+"loc pentru %2. Puteți alege ce sistem de operare doriți de fiecare dată "
+"când pornește calculatorul."
 
 #: ChoicePage#12
 msgid ""
 "<strong>Manual partitioning</strong><br/>You can create or resize partitions "
 "yourself, or choose multiple partitions for %1."
 msgstr ""
+"<strong>Partiționare manuală</strong><br/>Puteți crea sau redimensiona "
+"partițiile, sau puteți alege partiții multiple pentru %1."
 
 #: ClearMountsJob#1
 msgid "Clear mounts for partitioning operations on %1"
-msgstr ""
+msgstr "Eliminați montările pentru operațiunea de partiționare pe %1"
 
 #: ClearMountsJob#2
 msgid "Clearing mounts for partitioning operations on %1."
-msgstr ""
+msgstr "Se elimină montările pentru operațiunile de partiționare pe %1."
 
 #: ClearMountsJob#3
 msgid "Cleared all mounts for %1"
-msgstr ""
+msgstr "S-au eliminat toate punctele de montare pentru %1"
 
 #: ClearTempMountsJob#1
 msgid "Clear all temporary mounts."
-msgstr ""
+msgstr "Elimină toate montările temporare."
 
 #: ClearTempMountsJob#2
 msgid "Clearing all temporary mounts."
-msgstr ""
+msgstr "Se elimină toate montările temporare."
 
 #: ClearTempMountsJob#3
 msgid "Cannot get list of temporary mounts."
-msgstr ""
+msgstr "Nu se poate obține o listă a montărilor temporare."
 
 #: ClearTempMountsJob#4
 msgid "Cleared all temporary mounts."
-msgstr ""
+msgstr "S-au eliminat toate montările temporare."
 
 #: ConfigurePageAdvanced#1
 msgid "Permissions"
@@ -593,7 +625,7 @@ msgstr "Unitate preferată:"
 
 #: ConfigurePageAdvanced#7
 msgid "Byte"
-msgstr "Octeți"
+msgstr "Bytes"
 
 #: ConfigurePageAdvanced#8
 msgid "KiB"
@@ -750,7 +782,7 @@ msgstr "Logare"
 
 #: ConfigurePageGeneral#7
 msgid "Hide messages below:"
-msgstr "Ascunde mesajele dedesupt:"
+msgstr "Ascunde mesajele dedesubt:"
 
 #: ConfigurePageGeneral#8
 msgid "Debug"
@@ -781,7 +813,7 @@ msgstr "Sistem de fișiere implicit:"
 
 #: ConfigurePageGeneral#14
 msgid "Shredding"
-msgstr "Mărunțire"
+msgstr "Distrugere date"
 
 #: ConfigurePageGeneral#15
 msgid "Overwrite with:"
@@ -818,7 +850,7 @@ msgstr "Sistem de F&ișiere:"
 #: CreatePartitionDialog#6
 msgctxt "CreatePartitionDialog#6"
 msgid "&Mount Point:"
-msgstr "Punct de &Montare"
+msgstr "Punct de &montare"
 
 #: CreatePartitionDialog#7
 msgid "Si&ze:"
@@ -845,21 +877,23 @@ msgstr "GPT"
 
 #: CreatePartitionJob#1
 msgid "Create new %2MB partition on %4 (%3) with file system %1."
-msgstr ""
+msgstr "Crează o nouă partiție de %2MB pe %2 (%3) cu sistemul de operare %1."
 
 #: CreatePartitionJob#2
 msgid ""
 "Create new <strong>%2MB</strong> partition on <strong>%4</strong> (%3) with "
 "file system <strong>%1</strong>."
 msgstr ""
+"Crează o nouă partiție de <strong>%2MB</strong> pe <strong>%4</strong> (%3) "
+"cu sistemul de fișiere <strong>%1</strong>."
 
 #: CreatePartitionJob#3
 msgid "Creating new %1 partition on %2."
-msgstr ""
+msgstr "Se crează  nouă partiție %1 pe %2."
 
 #: CreatePartitionJob#4
 msgid "The installer failed to create partition on disk '%1'."
-msgstr "Instalatorul n-a putut să creeze partiția pe discul „%1”."
+msgstr "Instalatorul nu are reușit să creeze partiția pe discul „%1”."
 
 #: CreatePartitionJob#5
 msgctxt "CreatePartitionJob#5"
@@ -906,16 +940,18 @@ msgstr "Tabelă de partiții GUID (GPT)"
 
 #: CreatePartitionTableJob#1
 msgid "Create new %1 partition table on %2."
-msgstr ""
+msgstr "Creați o nouă tabelă de partiții %1 pe %2."
 
 #: CreatePartitionTableJob#2
 msgid ""
 "Create new <strong>%1</strong> partition table on <strong>%2</strong> (%3)."
 msgstr ""
+"Creați o nouă tabelă de partiții <strong>%1</strong> pe <strong>%2</strong> "
+"(%3)."
 
 #: CreatePartitionTableJob#3
 msgid "Creating new %1 partition table on %2."
-msgstr ""
+msgstr "Se crează o nouă tabelă de partiții %1 pe %2."
 
 #: CreatePartitionTableJob#4
 msgid "The installer failed to create a partition table on %1."
@@ -953,7 +989,7 @@ msgstr "Crează utilizatorul %1"
 
 #: CreateUserJob#2
 msgid "Create user <strong>%1</strong>."
-msgstr ""
+msgstr "Crează utilizatorul <strong>%1</strong>."
 
 #: CreateUserJob#3
 msgid "Creating user %1."
@@ -1009,15 +1045,15 @@ msgstr "&Parolă:"
 
 #: DeletePartitionJob#1
 msgid "Delete partition %1."
-msgstr ""
+msgstr "Șterge partiția %1."
 
 #: DeletePartitionJob#2
 msgid "Delete partition <strong>%1</strong>."
-msgstr ""
+msgstr "Șterge partiția <strong>%1</strong>."
 
 #: DeletePartitionJob#3
 msgid "Deleting partition %1."
-msgstr ""
+msgstr "Se șterge partiția %1."
 
 #: DeletePartitionJob#4
 msgid "The installer failed to delete partition %1."
@@ -1084,7 +1120,7 @@ msgstr "Primare/Max:"
 #: DevicePropsWidgetBase#11
 msgctxt "DevicePropsWidgetBase#11"
 msgid "SMART status:"
-msgstr "Statut SMART:"
+msgstr "Stare SMART:"
 
 #: DevicePropsWidgetBase#12
 msgctxt "DevicePropsWidgetBase#12"
@@ -1143,7 +1179,7 @@ msgstr "Tip:"
 
 #: EditMountPointDialogWidgetBase#4
 msgid "Options:"
-msgstr "Options:"
+msgstr "Opțiuni:"
 
 #: EditMountPointDialogWidgetBase#5
 msgid "Read-only"
@@ -1232,9 +1268,9 @@ msgid ""
 "details. "
 msgstr ""
 "Acest tabel arată ce sisteme de fișiere sunt suportate și ce operații "
-"specifice se pot performa asupra lor.\n"
-"Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru "
-"suport. Dar nu toate operațiunile se pot performa pe toate sistemele de "
+"specifice se pot efectua asupra lor.\n"
+"Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi "
+"suportate, dar nu toate operațiunile se pot efectua pe toate sistemele de "
 "fișiere, chiar dacă toate uneltele necesare sunt instalate. Vedeți "
 "documentația pentru detalii."
 
@@ -1298,39 +1334,43 @@ msgstr "Rescanează suportul"
 
 #: FillGlobalStorageJob#1
 msgid "Set partition information"
-msgstr "Setează informația pt. partiție"
+msgstr "Setează informația pentru partiție"
 
 #: FillGlobalStorageJob#2
 msgid "Install %1 on <strong>new</strong> %2 system partition."
-msgstr ""
+msgstr "Instalează %1 pe <strong>noua</strong> partiție de sistem %2."
 
 #: FillGlobalStorageJob#3
 msgid ""
 "Set up <strong>new</strong> %2 partition with mount point <strong>%"
 "1</strong>."
 msgstr ""
+"Setează <strong>noua</strong> partiție %2 cu punctul de montare <strong>%"
+"1</strong>."
 
 #: FillGlobalStorageJob#4
 msgid "Install %2 on %3 system partition <strong>%1</strong>."
-msgstr ""
+msgstr "Instalează %2 pe partiția de sistem %3 <strong>%1</strong>."
 
 #: FillGlobalStorageJob#5
 msgid ""
 "Set up %3 partition <strong>%1</strong> with mount point <strong>%"
 "2</strong>."
 msgstr ""
+"Setează partiția %3 <strong>%1</strong> cu punctul de montare <strong>%"
+"2</strong>."
 
 #: FillGlobalStorageJob#6
 msgid "Install boot loader on <strong>%1</strong>."
-msgstr ""
+msgstr "Instalează bootloader-ul pe <strong>%1</strong>."
 
 #: FillGlobalStorageJob#7
 msgid "Setting up mount points."
-msgstr ""
+msgstr "Se setează puncte de montare."
 
 #: FillGlobalStorageJob#8
 msgid "Failed to find path for boot loader"
-msgstr "Nu s-a găsit calea pentru încărcătorul de sistem"
+msgstr "Nu s-a găsit calea pentru bootloader"
 
 #: FinishedPage#1
 msgctxt "FinishedPage#1"
@@ -1346,6 +1386,9 @@ msgid ""
 "<h1>All done.</h1><br/>%1 has been installed on your computer.<br/>You may "
 "now restart into your new system, or continue using the %2 Live environment."
 msgstr ""
+"<h1>Gata.</h1><br/>%1 a fost instalat pe calculatorul "
+"dumneavoastră.<br/>Puteți reporni noul sistem, sau puteți continua să "
+"folosiți mediul portabil %2."
 
 #: FinishedViewStep#1
 msgid "All done"
@@ -1360,10 +1403,12 @@ msgid ""
 "Format <strong>%3MB</strong> partition <strong>%1</strong> with file system "
 "<strong>%2</strong>."
 msgstr ""
+"Formatează  partiția <strong>%1</strong>, de <strong>%3MB</strong> cu "
+"sistemul de fișiere <strong>%2</strong>."
 
 #: FormatPartitionJob#3
 msgid "Formatting partition %1 with file system %2."
-msgstr ""
+msgstr "Se formatează partiția %1 cu sistemul de fișiere %2."
 
 #: FormatPartitionJob#4
 msgid "The installer failed to format partition %1 on disk '%2'."
@@ -1412,10 +1457,13 @@ msgid ""
 "command line user interface elements.<br/>The current setting is <strong>%"
 "1</strong>."
 msgstr ""
+"Setările de localizare ale sistemului afectează limba și setul de caractere "
+"folosit pentru unele elemente de interfață la linia de comandă.<br/>Setările "
+"actuale sunt <strong>%1</strong>."
 
 #: LocalePage#1
 msgid "The system locale is set to %1."
-msgstr ""
+msgstr "Sistemul are localizarea setată pentru %1."
 
 #: LocalePage#2
 msgid "Region:"
@@ -1492,7 +1540,7 @@ msgstr "Mutarea partiției %1 a eșuat. Retragerea schimbărilor a eșuat."
 
 #: MoveFileSystemJob#6
 msgid "Updating boot sector after the moving of partition %1 failed."
-msgstr "Se actuializează sectorul de boot după eșecul mutării partiției %1."
+msgstr "Se actualizează sectorul de boot după eșecul mutării partiției %1."
 
 #: MoveFileSystemJob#7
 msgid ""
@@ -1592,11 +1640,11 @@ msgstr ""
 
 #: Page_UserSetup#12
 msgid "&Log in automatically"
-msgstr ""
+msgstr "&Autentificare automată"
 
 #: Page_UserSetup#13
 msgid "Require &my password to log in"
-msgstr ""
+msgstr "Solicită parola &mea pentru a mă autentifica"
 
 # @label:listbox
 #: PartPropsWidgetBase#1
@@ -1635,7 +1683,7 @@ msgstr "Tipul partiției:"
 # @label
 #: PartPropsWidgetBase#7
 msgid "Status:"
-msgstr "Statut:"
+msgstr "Stare:"
 
 # @label
 #: PartPropsWidgetBase#8
@@ -1678,7 +1726,7 @@ msgstr "Număr de sectoare:"
 # @label
 #: PartPropsWidgetBase#15
 msgid "Flags:"
-msgstr "Steaguri:"
+msgstr "Flags:"
 
 # @title:window
 #: PartitionManagerWidgetBase#1
@@ -1724,7 +1772,7 @@ msgstr "Disponibil"
 
 #: PartitionManagerWidgetBase#10
 msgid "First Sector"
-msgstr "Primul sectro"
+msgstr "Primul sector"
 
 #: PartitionManagerWidgetBase#11
 msgid "Last Sector"
@@ -1736,7 +1784,7 @@ msgstr "Număr de sectoare"
 
 #: PartitionManagerWidgetBase#13
 msgid "Flags"
-msgstr "Steaguri"
+msgstr "Flags"
 
 #: PartitionModel#1
 msgid "Free Space"
@@ -1813,43 +1861,49 @@ msgstr "Partiții"
 
 #: PartitionViewStep#3
 msgid "Install %1 <strong>alongside</strong> another operating system."
-msgstr ""
+msgstr "Instalează %1 <strong>laolaltă</strong> cu un alt sistem de operare."
 
 #: PartitionViewStep#4
 msgid "<strong>Erase</strong> disk and install %1."
-msgstr ""
+msgstr "<strong>Șterge</strong> discul și instalează %1."
 
 #: PartitionViewStep#5
 msgid "<strong>Replace</strong> a partition with %1."
-msgstr ""
+msgstr "<strong>Înlocuiește</strong> o partiție cu %1."
 
 #: PartitionViewStep#6
 msgid "<strong>Manual</strong> partitioning."
-msgstr ""
+msgstr "Partiționare <strong>manuală</strong>."
 
 #: PartitionViewStep#7
 msgid ""
 "Install %1 <strong>alongside</strong> another operating system on disk "
 "<strong>%2</strong> (%3)."
 msgstr ""
+"Instalează %1 <strong>laolaltă</strong> cu un alt sistem de operare pe "
+"discul <strong>%2</strong> (%3)."
 
 #: PartitionViewStep#8
 msgid "<strong>Erase</strong> disk <strong>%2</strong> (%3) and install %1."
 msgstr ""
+"<strong>Șterge</strong> discul <strong>%2</strong> (%3) și instalează %1."
 
 #: PartitionViewStep#9
 msgid ""
 "<strong>Replace</strong> a partition on disk <strong>%2</strong> (%3) with %"
 "1."
 msgstr ""
+"<strong>Înlocuiește</strong> o partiție pe discul <strong>%2</strong> (%3) "
+"cu %1."
 
 #: PartitionViewStep#10
 msgid "<strong>Manual</strong> partitioning on disk <strong>%1</strong> (%2)."
 msgstr ""
+"Partiționare <strong>manuală</strong> a discului <strong>%1</strong> (%2)."
 
 #: PartitionViewStep#11
 msgid "Disk <strong>%1</strong> (%2)"
-msgstr ""
+msgstr "Discul <strong>%1</strong> (%2)"
 
 #: PartitionViewStep#12
 msgctxt "PartitionViewStep#12"
@@ -1956,7 +2010,7 @@ msgstr "C&rează etichetă"
 
 #: ReleaseDialog#20
 msgid "S&kip translations below completion:"
-msgstr "Să&ri traducerile sub compleție:"
+msgstr "Să&ri peste traducerile neterminate:"
 
 #: ReleaseDialog#21
 msgid " %"
@@ -1977,32 +2031,38 @@ msgstr "Formular"
 
 #: ReplacePage#2
 msgid "Dis&k:"
-msgstr ""
+msgstr "Dis&c:"
 
 #: ReplacePage#3
 msgid ""
 "Select where to install %1.<br/><font color=\"red\">Warning: </font>this will "
 "delete all files on the selected partition."
 msgstr ""
+"Selectați unde să fie instalat %1.<br/><font color=\"red\">Atenție: "
+"</font>aceasta va șterge toate fișierele de pe partiția selectată."
 
 #: ReplacePage#4
 msgid "The selected item does not appear to be a valid partition."
-msgstr ""
+msgstr "Elementul selectat nu pare a fi o partiție validă."
 
 #: ReplacePage#5
 msgid ""
 "%1 cannot be installed on empty space. Please select an existing partition."
 msgstr ""
+"%1 nu poate fi instalat într-un loc inexistent. Vă rugăm să selectați o "
+"partiție existentă."
 
 #: ReplacePage#6
 msgid ""
 "%1 cannot be installed on an extended partition. Please select an existing "
 "primary or logical partition."
 msgstr ""
+"%1 nu poate fi instalat pe o partiție extinsă. Vă rugăm să selectați o "
+"partiție primară existentă sau una logică."
 
 #: ReplacePage#7
 msgid "%1 cannot be installed on this partition."
-msgstr ""
+msgstr "%1 nu poate fi instalat pe această partiție."
 
 #: ReplacePage#8
 msgid "Data partition (%1)"
@@ -2021,6 +2081,8 @@ msgid ""
 "<strong>%4</strong><br/><br/>The partition %1 is too small for %2. Please "
 "select a partition with capacity at least %3 GiB."
 msgstr ""
+"<strong>%4</strong><br/><br/>Partiția %1 este prea mică pentru %2. Vă rugăm "
+"să selectați o partiție cu capacitatea de cel puțin %3 GiB."
 
 #: ReplacePage#12
 msgid ""
@@ -2028,64 +2090,71 @@ msgid ""
 "anywhere on this system. Please go back and use manual partitioning to set "
 "up %1."
 msgstr ""
+"<strong>%2</strong><br/><br/>O partiție de sistem EFI nu se găsește nicăieri "
+"în sistem. Vă rugăm să reveniți și să utilizați partiționarea manuală "
+"pentru a seta %1."
 
 #: ReplacePage#13
 msgid ""
 "<strong>%3</strong><br/><br/>%1 will be installed on %2.<br/><font "
 "color=\"red\">Warning: </font>all data on partition %2 will be lost."
 msgstr ""
+"<strong>%3</strong><br/><br/>%1 va fi instalat pe %2.<br/><font "
+"color=\"red\">Atenție: </font>toate datele de pe partiția %2 se vor pierde."
 
 #: ReplacePage#14
 msgctxt "ReplacePage#14"
 msgid "The EFI system partition at %1 will be used for starting %2."
-msgstr ""
+msgstr "Partiția de sistem EFI de pe %1 va fi folosită pentru a începe %2."
 
 #: ReplacePage#15
 msgctxt "ReplacePage#15"
 msgid "EFI system partition:"
-msgstr ""
+msgstr "Partiție de sistem EFI"
 
 #: RequirementsChecker#1
 msgctxt "RequirementsChecker#1"
 msgid "Gathering system information..."
-msgstr ""
+msgstr "Se adună informații despre sistem..."
 
 #: RequirementsChecker#2
 msgid "has at least %1 GB available drive space"
-msgstr ""
+msgstr "are cel puțin %1 spațiu disponibil"
 
 #: RequirementsChecker#3
 msgid "There is not enough drive space. At least %1 GB is required."
-msgstr ""
+msgstr "Nu este suficient spațiu disponibil. Sunt necesari cel puțin %1 GB."
 
 #: RequirementsChecker#4
 msgid "has at least %1 GB working memory"
-msgstr ""
+msgstr "are cel puțin %1 GB de memorie utilizabilă"
 
 #: RequirementsChecker#5
 msgid ""
 "The system does not have enough working memory. At least %1 GB is required."
 msgstr ""
+"Sistemul nu are suficientă memorie utilizabilă. Sunt necesari cel puțin %1 "
+"GB."
 
 #: RequirementsChecker#6
 msgid "is plugged in to a power source"
-msgstr ""
+msgstr "este alimentat cu curent"
 
 #: RequirementsChecker#7
 msgid "The system is not plugged in to a power source."
-msgstr ""
+msgstr "Sistemul nu este alimentat cu curent."
 
 #: RequirementsChecker#8
 msgid "is connected to the Internet"
-msgstr ""
+msgstr "este conectat la Internet"
 
 #: RequirementsChecker#9
 msgid "The system is not connected to the Internet."
-msgstr ""
+msgstr "Sistemul nu este conectat la Internet."
 
 #: RequirementsChecker#10
 msgid "The installer is not running with administrator rights."
-msgstr ""
+msgstr "Instalatorul nu rulează cu privilegii de administrator."
 
 #: ResizeFileSystemJob#1
 msgid "Resize file system on partition %1."
@@ -2108,10 +2177,12 @@ msgid ""
 "Resize <strong>%2MB</strong> partition <strong>%1</strong> to <strong>%"
 "3MB</strong>."
 msgstr ""
+"Redimensionează partiția <strong>%1</strong> de la<strong>%2MB</strong> la "
+"<strong>%3MB</strong>."
 
 #: ResizePartitionJob#3
 msgid "Resizing %2MB partition %1 to %3MB."
-msgstr ""
+msgstr "Se redimensionează partiția %1 de la %2MG la %3MB."
 
 #: ResizePartitionJob#4
 msgid "The installer failed to resize partition %1 on disk '%2'."
@@ -2128,11 +2199,11 @@ msgstr "Setează numele de gazdă %1"
 
 #: SetHostNameJob#2
 msgid "Set hostname <strong>%1</strong>."
-msgstr ""
+msgstr "Setați un hostname <strong>%1</strong>."
 
 #: SetHostNameJob#3
 msgid "Setting hostname %1."
-msgstr ""
+msgstr "Se setează hostname %1."
 
 #: SetHostNameJob#4
 msgid "Internal Error"
@@ -2140,23 +2211,24 @@ msgstr "Eroare internă"
 
 #: SetHostNameJob#5
 msgid "Cannot write hostname to target system"
-msgstr "Nu se poate scrie numele de gazdă pe sistemul țintă"
+msgstr "Nu se poate scrie hostname pe sistemul țintă"
 
 #: SetKeyboardLayoutJob#1
 msgid "Set keyboard model to %1, layout to %2-%3"
-msgstr ""
+msgstr "Setează modelul de tastatură la %1, cu aranjamentul %2-%3"
 
 #: SetKeyboardLayoutJob#2
 msgid "Failed to write keyboard configuration for the virtual console."
 msgstr ""
+"Nu s-a reușit scrierea configurației de tastatură pentru consola virtuală."
 
 #: SetKeyboardLayoutJob#3
 msgid "Failed to write to %1"
-msgstr ""
+msgstr "Nu s-a reușit scrierea %1"
 
 #: SetKeyboardLayoutJob#4
 msgid "Failed to write keyboard configuration for X11."
-msgstr ""
+msgstr "Nu s-a reușit scrierea configurației de tastatură pentru X11."
 
 #: SetPartGeometryJob#1
 msgid "Update geometry of partition %1."
@@ -2172,7 +2244,7 @@ msgstr "Setează parola pentru utilizatorul %1"
 
 #: SetPasswordJob#2
 msgid "Setting password for user %1."
-msgstr ""
+msgstr "Se setează parola pentru utilizatorul %1."
 
 #: SetPasswordJob#3
 msgid "Bad destination system path."
@@ -2293,7 +2365,7 @@ msgstr "Spațiu liber după:"
 #: SmartDialogWidgetBase#1
 msgctxt "SmartDialogWidgetBase#1"
 msgid "SMART status:"
-msgstr "Statut SMART:"
+msgstr "Stare SMART:"
 
 #: SmartDialogWidgetBase#2
 msgid "Model:"
@@ -2305,7 +2377,7 @@ msgstr "Număr serie:"
 
 #: SmartDialogWidgetBase#4
 msgid "Firmware revision:"
-msgstr "Revizie firmware:"
+msgstr "Versiune firmware:"
 
 #: SmartDialogWidgetBase#5
 msgid "Temperature:"
@@ -2376,6 +2448,8 @@ msgid ""
 "This is an overview of what will happen once you start the install "
 "procedure."
 msgstr ""
+"Acesta este un rezumat a ce se va întâmpla după ce începeți procedura de "
+"instalare."
 
 #: SummaryViewStep#1
 msgctxt "SummaryViewStep#1"
@@ -2403,27 +2477,31 @@ msgstr "Mesaje"
 
 #: UsersPage#1
 msgid "Your username is too long."
-msgstr ""
+msgstr "Numele de utilizator este prea lung."
 
 #: UsersPage#2
 msgid ""
 "Your username contains invalid characters. Only lowercase letters and "
 "numbers are allowed."
 msgstr ""
+"Numele de utilizator conține caractere invalide. Folosiți doar litere mici "
+"și numere."
 
 #: UsersPage#3
 msgid "Your hostname is too short."
-msgstr ""
+msgstr "Hostname este prea scurt."
 
 #: UsersPage#4
 msgid "Your hostname is too long."
-msgstr ""
+msgstr "Hostname este prea lung."
 
 #: UsersPage#5
 msgid ""
 "Your hostname contains invalid characters. Only letters, numbers and dashes "
 "are allowed."
 msgstr ""
+"Hostname conține caractere invalide. Folosiți doar litere, numere și "
+"cratime."
 
 #: UsersPage#6
 msgid "Your passwords do not match!"
@@ -2436,35 +2514,35 @@ msgstr "Utilizatori"
 #: WelcomePage#1
 msgctxt "WelcomePage#1"
 msgid "Form"
-msgstr ""
+msgstr "Formular"
 
 #: WelcomePage#2
 msgid "&Language:"
-msgstr ""
+msgstr "&Limbă:"
 
 #: WelcomePage#3
 msgid "&Release notes"
-msgstr ""
+msgstr "&Note asupra ediției"
 
 #: WelcomePage#4
 msgid "&Known issues"
-msgstr ""
+msgstr "&Probleme cunoscute"
 
 #: WelcomePage#5
 msgid "&Support"
-msgstr ""
+msgstr "&Suport"
 
 #: WelcomePage#6
 msgid "&About"
-msgstr ""
+msgstr "&Despre"
 
 #: WelcomePage#7
 msgid "<h1>Welcome to the %1 installer.</h1>"
-msgstr ""
+msgstr "<h1>Bine ați venit la programul de instalare pentru %1.</h1>"
 
 #: WelcomePage#8
 msgid "About %1 installer"
-msgstr ""
+msgstr "Despre instalatorul de %1"
 
 #: WelcomePage#9
 msgid ""
@@ -2475,11 +2553,17 @@ msgid ""
 "sponsored by <br/><a href=\"http://www.blue-systems.com/\">Blue Systems</a> - "
 "Liberating Software."
 msgstr ""
+"<h1>%1</h1><br/><strong>%2<br/>for %3</strong><br/><br/>Copyright 2014-2015 "
+"Teo Mrnjavac &lt;teo@kde.org&gt;<br/>Mulțumiri: Anke Boersma, Aurélien "
+"Gâteau, Kevin Kofler, Philip Müller, Pier Luigi Fiorini and Rohan "
+"Garg.<br/><br/>Dezvoltarea <a href=\"http://calamares.io/\">Calamares</a> este "
+"suportată de <br/><a href=\"http://www.blue-systems.com/\">Blue Systems</a> - "
+"Noi eliberăm software-ul."
 
 #: WelcomePage#10
 msgid "%1 support"
-msgstr ""
+msgstr "%1 suport"
 
 #: WelcomeViewStep#1
 msgid "Welcome"
-msgstr ""
+msgstr "Bine ați venit"
