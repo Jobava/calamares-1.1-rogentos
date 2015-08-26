@@ -908,7 +908,7 @@ Instalatorul va ieși, iar toate modificările vor fi pierdute.</translation>
     <message>
         <location line="14" filename="../src/modules/partition/gui/CreatePartitionDialog.ui"/>
         <source>Create a Partition</source>
-        <translation>Crează o partiție</translation>
+        <translation>Creează o partiție</translation>
     </message>
     <message>
         <location line="38" filename="../src/modules/partition/gui/CreatePartitionDialog.ui"/>
@@ -966,17 +966,17 @@ Instalatorul va ieși, iar toate modificările vor fi pierdute.</translation>
     <message>
         <location line="48" filename="../src/modules/partition/jobs/CreatePartitionJob.cpp"/>
         <source>Create new %2MB partition on %4 (%3) with file system %1.</source>
-        <translation>Crează o nouă partiție de %2MB pe %2 (%3) cu sistemul de operare %1.</translation>
+        <translation>Creează o nouă partiție de %2MB pe %2 (%3) cu sistemul de operare %1.</translation>
     </message>
     <message>
         <location line="59" filename="../src/modules/partition/jobs/CreatePartitionJob.cpp"/>
         <source>Create new &lt;strong>%2MB&lt;/strong> partition on &lt;strong>%4&lt;/strong> (%3) with file system &lt;strong>%1&lt;/strong>.</source>
-        <translation>Crează o nouă partiție de &lt;strong>%2MB&lt;/strong> pe &lt;strong>%4&lt;/strong> (%3) cu sistemul de fișiere &lt;strong>%1&lt;/strong>.</translation>
+        <translation>Creează o nouă partiție de &lt;strong>%2MB&lt;/strong> pe &lt;strong>%4&lt;/strong> (%3) cu sistemul de fișiere &lt;strong>%1&lt;/strong>.</translation>
     </message>
     <message>
         <location line="71" filename="../src/modules/partition/jobs/CreatePartitionJob.cpp"/>
         <source>Creating new %1 partition on %2.</source>
-        <translation>Se crează  nouă partiție %1 pe %2.</translation>
+        <translation>Se creează  nouă partiție %1 pe %2.</translation>
     </message>
     <message>
         <location line="83" filename="../src/modules/partition/jobs/CreatePartitionJob.cpp"/>
@@ -1009,7 +1009,7 @@ Instalatorul va ieși, iar toate modificările vor fi pierdute.</translation>
     <message>
         <location line="20" filename="../src/modules/partition/gui/CreatePartitionTableDialog.ui"/>
         <source>Create Partition Table</source>
-        <translation>Crează tabelă de partiții</translation>
+        <translation>Creează tabelă de partiții</translation>
     </message>
     <message>
         <location line="39" filename="../src/modules/partition/gui/CreatePartitionTableDialog.ui"/>
@@ -1047,7 +1047,7 @@ Instalatorul va ieși, iar toate modificările vor fi pierdute.</translation>
     <message>
         <location line="66" filename="../src/modules/partition/jobs/CreatePartitionTableJob.cpp"/>
         <source>Creating new %1 partition table on %2.</source>
-        <translation>Se crează o nouă tabelă de partiții %1 pe %2.</translation>
+        <translation>Se creează o nouă tabelă de partiții %1 pe %2.</translation>
     </message>
     <message>
         <location line="76" filename="../src/modules/partition/jobs/CreatePartitionTableJob.cpp"/>
@@ -1093,12 +1093,12 @@ Instalatorul va ieși, iar toate modificările vor fi pierdute.</translation>
     <message>
         <location line="51" filename="../src/modules/users/CreateUserJob.cpp"/>
         <source>Create user %1</source>
-        <translation>Crează utilizatorul %1</translation>
+        <translation>Creează utilizatorul %1</translation>
     </message>
     <message>
         <location line="58" filename="../src/modules/users/CreateUserJob.cpp"/>
         <source>Create user &lt;strong>%1&lt;/strong>.</source>
-        <translation>Crează utilizatorul &lt;strong>%1&lt;/strong>.</translation>
+        <translation>Creează utilizatorul &lt;strong>%1&lt;/strong>.</translation>
     </message>
     <message>
         <location line="65" filename="../src/modules/users/CreateUserJob.cpp"/>
@@ -1462,7 +1462,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
     <message>
         <location line="70" filename="../src/modules/partition/partitionmanager/src/gui/filesystemsupportdialogwidgetbase.ui"/>
         <source>Create</source>
-        <translation>Crează</translation>
+        <translation>Creează</translation>
     </message>
     <message>
         <location line="75" filename="../src/modules/partition/partitionmanager/src/gui/filesystemsupportdialogwidgetbase.ui"/>
@@ -1909,7 +1909,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
         <location line="92" filename="../src/modules/partition/partitionmanager/src/gui/partpropswidgetbase.ui"/>
         <source>Recreate existing file system</source>
         <comment>@action:button</comment>
-        <translation>Recrează sistemul de fișiere existent</translation>
+        <translation>Recreează sistemul de fișiere existent</translation>
     </message>
     <message>
         <location line="106" filename="../src/modules/partition/partitionmanager/src/gui/partpropswidgetbase.ui"/>
@@ -2105,7 +2105,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
     <message>
         <location line="104" filename="../src/modules/partition/gui/PartitionPage.ui"/>
         <source>&amp;Create</source>
-        <translation>&amp;Crează</translation>
+        <translation>&amp;Creează</translation>
     </message>
     <message>
         <location line="111" filename="../src/modules/partition/gui/PartitionPage.ui"/>
@@ -2333,7 +2333,7 @@ Anumite sisteme de fișiere au nevoie de unelte externe instalate pentru a fi su
     <message>
         <location line="324" filename="../src/modules/partition/partitionmanager/scripts/release/releasedialog.ui"/>
         <source>Create Tar&amp;ball</source>
-        <translation>Crează tar&amp;ball</translation>
+        <translation>Creează tar&amp;ball</translation>
     </message>
     <message>
         <location line="334" filename="../src/modules/partition/partitionmanager/scripts/release/releasedialog.ui"/>

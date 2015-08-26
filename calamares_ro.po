@@ -829,7 +829,7 @@ msgstr "Zerouri"
 
 #: CreatePartitionDialog#1
 msgid "Create a Partition"
-msgstr "Crează o partiție"
+msgstr "Creează o partiție"
 
 #: CreatePartitionDialog#2
 msgid "Partition &Type:"
@@ -877,19 +877,19 @@ msgstr "GPT"
 
 #: CreatePartitionJob#1
 msgid "Create new %2MB partition on %4 (%3) with file system %1."
-msgstr "Crează o nouă partiție de %2MB pe %2 (%3) cu sistemul de operare %1."
+msgstr "Creează o nouă partiție de %2MB pe %2 (%3) cu sistemul de operare %1."
 
 #: CreatePartitionJob#2
 msgid ""
 "Create new <strong>%2MB</strong> partition on <strong>%4</strong> (%3) with "
 "file system <strong>%1</strong>."
 msgstr ""
-"Crează o nouă partiție de <strong>%2MB</strong> pe <strong>%4</strong> (%3) "
+"Creează o nouă partiție de <strong>%2MB</strong> pe <strong>%4</strong> (%3) "
 "cu sistemul de fișiere <strong>%1</strong>."
 
 #: CreatePartitionJob#3
 msgid "Creating new %1 partition on %2."
-msgstr "Se crează  nouă partiție %1 pe %2."
+msgstr "Se creează  nouă partiție %1 pe %2."
 
 #: CreatePartitionJob#4
 msgid "The installer failed to create partition on disk '%1'."
@@ -919,7 +919,7 @@ msgstr "Instalatorul n-a putut actualiza tabela de partiții pe discul %1."
 
 #: CreatePartitionTableDialog#1
 msgid "Create Partition Table"
-msgstr "Crează tabelă de partiții"
+msgstr "Creează tabelă de partiții"
 
 #: CreatePartitionTableDialog#2
 msgid ""
@@ -951,7 +951,7 @@ msgstr ""
 
 #: CreatePartitionTableJob#3
 msgid "Creating new %1 partition table on %2."
-msgstr "Se crează o nouă tabelă de partiții %1 pe %2."
+msgstr "Se creează o nouă tabelă de partiții %1 pe %2."
 
 #: CreatePartitionTableJob#4
 msgid "The installer failed to create a partition table on %1."
@@ -985,11 +985,11 @@ msgstr "<b>Atenție:</b> Aceasta va distruge toate datele de pe dispozitiv!"
 
 #: CreateUserJob#1
 msgid "Create user %1"
-msgstr "Crează utilizatorul %1"
+msgstr "Creează utilizatorul %1"
 
 #: CreateUserJob#2
 msgid "Create user <strong>%1</strong>."
-msgstr "Crează utilizatorul <strong>%1</strong>."
+msgstr "Creează utilizatorul <strong>%1</strong>."
 
 #: CreateUserJob#3
 msgid "Creating user %1."
@@ -1281,7 +1281,7 @@ msgstr "Sistem de fișiere"
 
 #: FileSystemSupportDialogWidgetBase#3
 msgid "Create"
-msgstr "Crează"
+msgstr "Creează"
 
 #: FileSystemSupportDialogWidgetBase#4
 msgid "Grow"
@@ -1667,7 +1667,7 @@ msgstr "Acest sistem de fișiere nu suportă setarea unei etichete."
 # @action:button
 #: PartPropsWidgetBase#4
 msgid "Recreate existing file system"
-msgstr "Recrează sistemul de fișiere existent"
+msgstr "Recreează sistemul de fișiere existent"
 
 # @label
 #: PartPropsWidgetBase#5
@@ -1832,7 +1832,7 @@ msgstr "&Tabelă nouă de partiții"
 
 #: PartitionPage#5
 msgid "&Create"
-msgstr "&Crează"
+msgstr "&Creează"
 
 #: PartitionPage#6
 msgid "&Edit"
@@ -2018,7 +2018,7 @@ msgstr "%"
 
 #: ReleaseDialog#22
 msgid "Create Tar&ball"
-msgstr "Crează tar&ball"
+msgstr "Creează tar&ball"
 
 #: ReleaseDialog#23
 msgid "Apply &fixes"
